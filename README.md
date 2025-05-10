@@ -1,9 +1,6 @@
 # Generate a polished GitHub profile README for Matthew Dubea
-
-cleaned_readme_md = """\
 # Matthew Dubea – Mechanical Engineering Portfolio
 
-![Trike Design](https://mtdubea.github.io/matthew-dubea.github.io/trike.png)
 
 Hi, I’m Matthew — a mechanical engineering senior graduating in **May 2025** from the University of Louisiana at Lafayette. I specialize in hands-on mechanical systems, **CAD design**, and **performance-based engineering** with real-world application. My focus is on **design-for-manufacturability**, structural analysis, and creative solutions backed by fabrication and testing.
 
@@ -18,7 +15,7 @@ Hi, I’m Matthew — a mechanical engineering senior graduating in **May 2025**
 **Track:** 0.66-mile relay w/ 8-person rotation
 
 We engineered and fabricated a racing trike from scratch to meet all competition rules: no chains, no gears, and direct pedal-to-wheel front-drive. The frame was TIG-welded steel with a custom rear axle, brass bushings, seat anchors, and optimized center of gravity for speed and balance.
-
+![Trike Design](https://mtdubea.github.io/matthew-dubea.github.io/trike.png)
 ### 🔧 My Contributions
 
 - Designed full CAD assembly in **SolidWorks** (frame, fork, stem, axle)
