@@ -1,80 +1,73 @@
 # Matthew Dubea – Mechanical Engineering Portfolio
 
-Hi, I’m Matthew — a mechanical engineering senior graduating in May 2025 from the University of Louisiana at Lafayette. I’ve spent the last few years building a foundation in product design, mechanical systems, and manufacturing—with a particular focus on turning rough concepts into real, working machines.
-
-Most of my work blends CAD modeling, hands-on fabrication, and performance testing. I'm especially interested in designing for manufacturability and integrating mechanical systems with real-world constraints.
+Hi, I’m Matthew — a mechanical engineering senior graduating in May 2025 from the University of Louisiana at Lafayette. I specialize in hands-on mechanical systems, CAD design, and performance-based engineering with real-world application. My focus is design-for-manufacturability, structural performance, and creative mechanical solutions backed by physical testing.
 
 ---
 
-## 🎯 Featured Project – Human-Powered Racing Tricycle (Acadiana 500)
+## 🏁 Senior Design – Human-Powered Tricycle (Acadiana 500)
 
 **Team:** Fast Pedal Engineers  
-**Result:** 🥇 1st Place out of all competitors  
-**Race Format:** 0.66-mile team relay, 8 riders  
+**Result:** 🥇 1st Place Overall  
 **Top Speed:** ~14.5 mph  
-**Final Time:** 3 minutes, 31 seconds  
+**Final Time:** 3 minutes 31 seconds  
+**Track:** 0.66-mile relay w/ 8-person rotation
 
-This project pushed my skills in CAD, FEA, machining, and race-day problem solving. We designed and built a custom tricycle from a modified bicycle frame, with a direct-drive front wheel and a CNC-machined rear axle housing.
+We engineered and fabricated a racing trike from scratch to comply with all Acadiana 500 rules: no chains, no gears, and direct pedal-to-wheel front-drive. Our final design was a TIG-welded steel frame with custom rear axle bushings, seat anchors, and tight race tolerances. The trike had a low center of gravity, even weight distribution, and high lateral stability.
 
-### My Contributions:
-- SolidWorks: Designed full frame, drivetrain, and custom stem extension
-- FEA: Verified axle bending stress, von Mises analysis (max stress ≈ 2.8e8 N/m²)
-- TIG welding: Collaborated with machinists to TIG-weld critical joints
-- CG modeling: Calculated weight distribution and tipping thresholds
-- Technical documentation: Created spec sheets, BOMs, and test reports
-
-🔗 **Project Files**:
-- [CAD Assembly – SolidWorks Model](./02_Senior_Design_Project/Tricycle_SolidWorks_Model.SLDASM)
-- [FEA Results – PDF](./02_Senior_Design_Project/FEA_Results.pdf)
-- [Engineering Memo](./02_Senior_Design_Project/Engineering_Memo_Report.pdf)
-- [Race Performance Data – XLSX](./02_Senior_Design_Project/Race_Performance_Data.xlsx)
-- [Race Video / Footage](./02_Senior_Design_Project/Race_Footage_Link.txt)
+### 🔧 My Contributions:
+- Designed full CAD assembly in SolidWorks (frame, stem extension, axle, fork)
+- Performed FEA on axle and frame to determine max stress (σ_vm ≈ 2.8e8 N/m²)
+- Created engineering documentation: spec sheets, tolerance drawings, budget analysis
+- Managed machining and fabrication (CNC bushing sleeves, brass spacers)
+- Modeled tipping angle, stress, CG location, and lap-time analysis
 
 ---
 
-## 🛠 Other Projects
+### 📂 Project Files
 
-### CNC Machining Fixture (SolidWorks)
-Designed a clamp fixture for securing parts during milling. Allowed variable-width parts with consistent clamping pressure.  
-[PDF Drawing](./04_Additional_Projects/CNC_Fixture_Design.pdf)
+- [📦 Trike Assembly – SolidWorks ZIP](./02_Senior_Design_Project/Assembly/Trike_Assembly.zip)
+- [📄 Senior Design Poster (PDF)](./02_Senior_Design_Project/MCHE484_FastPedalEngineers_Poster.pdf)
+- [📊 FEA Report (PDF)](./02_Senior_Design_Project/FEA_Results.pdf)
+- [🧾 Engineering Memo Report (PDF)](./02_Senior_Design_Project/Engineering_Memo_Report.pdf)
+- [📈 Race Performance Data (XLSX)](./02_Senior_Design_Project/Race_Performance_Data.xlsx)
 
-### Suspension System Simulation (MATLAB)
-Simulated a 2-DOF mass-spring-damper system with impulse and step inputs. Used MATLAB to analyze dynamic response and tune damping.  
+---
+
+## ⚙️ Other Projects
+
+### CNC Fixture Design
+Parametric clamp fixture modeled in SolidWorks. Adjustable for variable-width stock during machining.  
+[Drawing (PDF)](./04_Additional_Projects/CNC_Fixture_Design.pdf)
+
+### Suspension System Simulation – MATLAB
+Simulated a 2-DOF mass-spring-damper model. Used impulse & step inputs to validate response and optimize damping.  
 [Code](./04_Additional_Projects/MATLAB_Suspension_Simulation.m)
 
-### Thermo Lab – SR-30 Jet Turbine
-Collected and processed real-time data from a small jet engine. Calculated compressor/turbine efficiencies and created full data reduction report.  
-[Report](./04_Additional_Projects/Jet_Engine_Lab_Report.pdf)
+### SR-30 Jet Turbine Lab
+Collected experimental pressure/temperature data from a jet engine testbed. Calculated turbine & compressor efficiency.  
+[Lab Report](./04_Additional_Projects/Jet_Engine_Lab_Report.pdf)
 
 ---
 
-## 🔧 Skills
+## 🧠 Engineering Skills
 
-**CAD & Simulation**  
-SolidWorks, CATIA, Fusion 360, AutoCAD, ANSYS Workbench
-
-**Programming & Analysis**  
-MATLAB, Simulink, Python (basic), Arduino, Excel (macros + VBA)
-
-**Fabrication & Testing**  
-TIG welding, CNC machining, 3D printing, material testing, system prototyping
-
-**Other Engineering Tools**  
-LaTeX, G-code, GD&T, FMEA, DFM/A, tolerance analysis
+**Design & Simulation**: SolidWorks, AutoCAD, Fusion 360, ANSYS, Simulink  
+**Programming**: MATLAB, Python (basic), Excel VBA, Arduino  
+**Fabrication**: CNC Machining, TIG Welding, 3D Printing  
+**Methods**: DFM, Tolerance Analysis, FEA, FMEA, Technical Memo Writing  
+**Reporting**: LaTeX, MS Word, Excel (regression plots, budget sheets)
 
 ---
 
 ## 🎓 Certifications
 
-- FE Mechanical Exam – *Passed*  
-- OSHA 30 – *Construction Safety*  
-- Lean Six Sigma – *In Progress*
+- FE Mechanical Exam – ✅ *Passed*  
+- OSHA 30 – ✅ *Construction Safety*  
+- Lean Six Sigma – ⏳ *In Progress*
 
 ---
 
 ## 📬 Contact
-
-If you're interested in collaborating on a design project, need a hands-on engineer for manufacturing or mechanical systems work, or just want to chat shop—feel free to reach out.
 
 **Email**: mattdubea@outlook.com  
 **LinkedIn**: [linkedin.com/in/matthew-dubea-4188ac311](https://linkedin.com/in/matthew-dubea-4188ac311)  
@@ -83,4 +76,4 @@ If you're interested in collaborating on a design project, need a hands-on engin
 
 ---
 
-Thanks for stopping by.
+Thanks for checking out my work.
