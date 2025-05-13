@@ -1,8 +1,9 @@
-# Generate a polished GitHub profile README for Matthew Dubea
 # Matthew Dubea – Mechanical Engineering Portfolio
 
-
 Hi, I’m Matthew — a mechanical engineering senior graduating in **May 2025** from the University of Louisiana at Lafayette. I specialize in hands-on mechanical systems, **CAD design**, and **performance-based engineering** with real-world application. My focus is on **design-for-manufacturability**, structural analysis, and creative solutions backed by fabrication and testing.
+
+🌐 **[View My Full Project Portfolio Website](https://mtdubea.github.io/matthew-dubea.github.io/)**  
+Includes CAD drawings, race data, fabrication photos, and reports from my senior tricycle project.
 
 ---
 
@@ -14,10 +15,10 @@ Hi, I’m Matthew — a mechanical engineering senior graduating in **May 2025**
 **Final Time:** 3 minutes 31 seconds  
 **Track:** 0.66-mile relay w/ 8-person rotation
 
-We engineered and fabricated a racing trike from scratch to meet all competition rules: no chains, no gears, and direct pedal-to-wheel front-drive. The frame was TIG-welded steel with a custom rear axle, brass bushings, seat anchors, and optimized center of gravity for speed and balance.
+We engineered and fabricated a racing trike from scratch to meet all competition rules: no chains, no gears, and direct pedal-to-wheel front-drive. The frame was TIG-welded steel with a custom rear axle, brass bushings, seat anchors, and optimized center of gravity for speed and balance.  
 ![Trike Design](https://mtdubea.github.io/matthew-dubea.github.io/trike.png)
-### 🔧 My Contributions
 
+### 🔧 My Contributions
 - Designed full CAD assembly in **SolidWorks** (frame, fork, stem, axle)
 - Ran **FEA** (σ_vm ≈ 2.8e8 N/m²) to validate critical stresses and safety factor
 - Created all **engineering documentation**: spec sheets, tolerances, bill of materials
@@ -28,13 +29,14 @@ We engineered and fabricated a racing trike from scratch to meet all competition
 
 ## 📂 Project Files
 
-| 📄 Document Type        | Link |
-|------------------------|------|
-| 📦 Trike Assembly ZIP  | [Download](https://mtdubea.github.io/matthew-dubea.github.io/Trike_Assembly.zip) |
-| 📄 Senior Design Poster | [View PDF](https://mtdubea.github.io/matthew-dubea.github.io/MCHE484_FinalPoster_TrikeDesignAndFab.pdf) |
-| 📊 FEA Report           | [View PDF](https://mtdubea.github.io/matthew-dubea.github.io/FEA_Results.pdf) |
-| 🧾 Engineering Memo     | [View PDF](https://mtdubea.github.io/matthew-dubea.github.io/Engineering_Memo_Report.pdf) |
-| 📈 Race Performance     | [Race Data (XLSX)](https://mtdubea.github.io/matthew-dubea.github.io/Race_Performance_Data.xlsx) |
+| 📄 Document Type         | Link                                                                                   |
+|--------------------------|----------------------------------------------------------------------------------------|
+| 📦 Trike Assembly ZIP     | [Download](https://mtdubea.github.io/matthew-dubea.github.io/Trike_Assembly.zip)      |
+| 🖼️ Trike Gallery           | [View Images](https://mtdubea.github.io/matthew-dubea.github.io/gallery.html)         |
+| 📄 Senior Design Poster   | [View PDF](https://mtdubea.github.io/matthew-dubea.github.io/MCHE484_FinalPoster_TrikeDesignAndFab.pdf) |
+| 📊 FEA Report             | [View PDF](https://mtdubea.github.io/matthew-dubea.github.io/FEA_Results.pdf)         |
+| 🧾 Engineering Memo       | [View PDF](https://mtdubea.github.io/matthew-dubea.github.io/Engineering_Memo_Report.pdf) |
+| 📈 Race Performance Data | [XLSX](https://mtdubea.github.io/matthew-dubea.github.io/Race_Performance_Data.xlsx)   |
 
 ---
 
@@ -66,9 +68,9 @@ Collected and analyzed compressor/turbine performance from real jet engine testb
 
 ## 🎓 Certifications
 
-- ✅ FE Mechanical Exam – *Passed*  
-- ✅ OSHA 30 – *Construction Safety*  
-- ⏳ Lean Six Sigma – *In Progress*
+- ✅ FE Mechanical Exam – *In Progress*  
+- ✅ OSHA 30 
+- ⏳ Lean Six Sigma
 
 ---
 
@@ -77,16 +79,9 @@ Collected and analyzed compressor/turbine performance from real jet engine testb
 📧 Email: [mattdubea@outlook.com](mailto:mattdubea@outlook.com)  
 🔗 LinkedIn: [linkedin.com/in/matthew-dubea-4188ac311](https://linkedin.com/in/matthew-dubea-4188ac311)  
 💻 GitHub: [github.com/mtdubea](https://github.com/mtdubea)  
+🌎 Portfolio Website: [mtdubea.github.io/matthew-dubea.github.io](https://mtdubea.github.io/matthew-dubea.github.io)  
 📍 Location: Lafayette, Louisiana
 
 ---
 
 > Thanks for checking out my portfolio. I’m open to full-time roles in product design, advanced manufacturing, and applied mechanical systems engineering.
-"""
-
-# Save the final README as a .md file
-readme_path = "/mnt/data/README_MatthewDubea_Profile.md"
-with open(readme_path, "w") as f:
-    f.write(cleaned_readme_md)
-
-readme_path
