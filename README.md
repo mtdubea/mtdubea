@@ -1,87 +1,83 @@
-# Matthew Dubea – Mechanical Engineering Portfolio
+<!--  ===========================================================
+      PROFILE README  ·  GitHub.com/mtdubea
+      Render-safe for both light & dark themes  •  ~130 lines
+================================================================ -->
 
-Hi, I’m Matthew — a mechanical engineering senior graduating in **May 2025** from the University of Louisiana at Lafayette. I specialize in hands-on mechanical systems, **CAD design**, and **performance-based engineering** with real-world application. My focus is on **design-for-manufacturability**, structural analysis, and creative solutions backed by fabrication and testing.
+<h1 align="center">Matthew&nbsp;Dubea &nbsp;·&nbsp; Mechanical Engineer</h1>
 
-🌐 **[View My Full Project Portfolio Website](https://mtdubea.github.io/matthew-dubea.github.io/)**  
-Includes CAD drawings, race data, fabrication photos, and reports from my senior tricycle project.
+<p align="center">
+  <a href="https://mtdubea.github.io/matthew-dubea.github.io" target="_blank">
+    <img alt="Portfolio Website" src="https://img.shields.io/badge/🌐%20Portfolio-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:mattdubea@outlook.com">
+    <img alt="Email" src="https://img.shields.io/badge/✉️%20Email-grey?style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/matthew-dubea-4188ac311" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+</p>
 
----
-
-## 🏁 Senior Design – Human-Powered Tricycle (Acadiana 500)
-
-**Team:** Fast Pedal Engineers  
-**Result:** 🥇 1st Place Overall  
-**Top Speed:** ~14.5 mph  
-**Final Time:** 3 minutes 31 seconds  
-**Track:** 0.66-mile relay w/ 8-person rotation
-
-We engineered and fabricated a racing trike from scratch to meet all competition rules: no chains, no gears, and direct pedal-to-wheel front-drive. The frame was TIG-welded steel with a custom rear axle, brass bushings, seat anchors, and optimized center of gravity for speed and balance.  
-![Trike Design](https://mtdubea.github.io/matthew-dubea.github.io/trike.png)
-
-### 🔧 My Contributions
-- Designed full CAD assembly in **SolidWorks** (frame, fork, stem, axle)
-- Ran **FEA** (σ_vm ≈ 2.8e8 N/m²) to validate critical stresses and safety factor
-- Created all **engineering documentation**: spec sheets, tolerances, bill of materials
-- Managed fabrication: **CNC sleeves**, bushings, brass spacers
-- Modeled tipping angle, lateral acceleration, and lap-time performance
+> **Senior M.E. (May ’25)** • Hands-on designer • FEA & manufacturability focused  
+> Building things that *roll fast and don’t break* 🚴‍♂️
 
 ---
 
-## 📂 Project Files
+## 🏁 Capstone Highlight — *Acadiana 500* Racing Tricycle
+|  |  |
+|---|---|
+| **Team** | Fast Pedal Engineers |
+| **Result** | 1st Place 🥇 &nbsp;| **Top Speed** | ~14.5 mph |
+| **Track** | 0.66-mi relay (8-rider) | **FoS (frame)** | 2.22 |
 
-| 📄 Document Type         | Link                                                                                   |
-|--------------------------|----------------------------------------------------------------------------------------|
-| 📦 Trike Assembly ZIP     | [Download](https://mtdubea.github.io/matthew-dubea.github.io/Trike_Assembly.zip)      |
-| 🖼️ Trike Gallery           | [View Images](https://mtdubea.github.io/matthew-dubea.github.io/gallery.html)         |
-| 📄 Senior Design Poster   | [View PDF](https://mtdubea.github.io/matthew-dubea.github.io/MCHE484_FinalPoster_TrikeDesignAndFab.pdf) |
-| 📊 FEA Report             | [View PDF](https://mtdubea.github.io/matthew-dubea.github.io/FEA_Results.pdf)         |
-| 🧾 Engineering Memo       | [View PDF](https://mtdubea.github.io/matthew-dubea.github.io/Engineering_Memo_Report.pdf) |
-| 📈 Race Performance Data | [XLSX](https://mtdubea.github.io/matthew-dubea.github.io/Race_Performance_Data.xlsx)   |
+| My Role |
+|---------|
+| • End-to-end CAD in SolidWorks + fully-detailed drawing pack |
+| • Non-linear FEA → Verified σ<sub>vm</sub> vs. 4130/4140 yield |
+| • CNC-machined fork sleeves & brass bushings |
+| • Calculations for CoG, tip-angle (23°), pedal cadence, kinetic energy |
+| • Authored 28-page final report & poster |
 
----
-
-## ⚙️ Additional Projects
-
-### 🔩 CNC Fixture Design  
-Adjustable clamp fixture modeled in SolidWorks with parametric constraints for multi-width stock.  
-[Drawing (PDF)](https://example.com/placeholder_CNCFixture.pdf)
-
-### 🔧 Suspension System Simulation  
-Simulated 2-DOF suspension model in MATLAB/Simulink. Validated natural frequency and damping from impulse & step input.  
-[Code](https://example.com/placeholder_SimulationCode.m)
-
-### 🛩️ SR-30 Jet Turbine Lab  
-Collected and analyzed compressor/turbine performance from real jet engine testbed using thermodynamic calculations.  
-[Lab Report](https://example.com/placeholder_JetEngineLab.pdf)
+<img src="https://raw.githubusercontent.com/mtdubea/matthew-dubea.github.io/main/trike.png" alt="Trike photo" width="600">
 
 ---
 
-## 🧠 Technical Skills
-
-- **Design & Simulation**: SolidWorks, AutoCAD, Fusion 360, ANSYS, Simulink  
-- **Programming**: MATLAB, Python, Arduino, Excel VBA  
-- **Fabrication**: TIG Welding, CNC Machining, 3D Printing  
-- **Documentation**: LaTeX, MS Word, Excel (regression plots, technical memos)  
-- **Methods**: DFM, FEA, FMEA, GD&T, Tolerance Stackups
+## 🔧 Core Skill Stack
+| Design / CAE | Manufacturing | Code / Data |
+|--------------|---------------|-------------|
+| SolidWorks (CSWA) • Fusion 360 • AutoCAD | TIG welding • CNC mill & lathe • 3-axis 3-D printing | MATLAB/Simulink • Python • Excel VBA |
+| Linear/Non-linear FEA • CFD-lite | GD&T • Tolerance-stack • DFM/A | Pandas • Matplotlib • Jupyter |
 
 ---
 
-## 🎓 Certifications
-
-- ✅ FE Mechanical Exam – *In Progress*  
-- ✅ OSHA 30 
-- ⏳ Lean Six Sigma
-
----
-
-## 📬 Contact
-
-📧 Email: [mattdubea@outlook.com](mailto:mattdubea@outlook.com)  
-🔗 LinkedIn: [linkedin.com/in/matthew-dubea-4188ac311](https://linkedin.com/in/matthew-dubea-4188ac311)  
-💻 GitHub: [github.com/mtdubea](https://github.com/mtdubea)  
-🌎 Portfolio Website: [mtdubea.github.io/matthew-dubea.github.io](https://mtdubea.github.io/matthew-dubea.github.io)  
-📍 Location: Lafayette, Louisiana
+## 🗂️ Key Links
+| File / Resource | Quick Access |
+|-----------------|-------------|
+| 📑 **28-page Final Report** | <https://tinyurl.com/fast-pedal-report> |
+| 🖼️ **Poster (single-page)** | <https://tinyurl.com/fast-pedal-poster> |
+| 🎞️ **Race highlight clip** | <https://youtu.be/Gqv5KYpIoNs> |
+| 🌐 **Full website (more docs & CAD)** | <https://mtdubea.github.io/matthew-dubea.github.io> |
 
 ---
 
-> Thanks for checking out my portfolio. I’m open to full-time roles in product design, advanced manufacturing, and applied mechanical systems engineering.
+## 📊 Quick-Stats (auto-updates)
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mtdubea&show_icons=true&theme=default&hide_rank=true&count_private=true">
+</p>
+
+---
+
+## 🏷 Certifications & Coursework
+- **FE-Mechanical** (sitting 2025)  
+- OSHA-30 • Lean Six Sigma (Green Belt – in progress)  
+- MATLAB ML Certificate • Autodesk Fusion CAM essentials
+
+---
+
+## 🤝 Let’s Connect
+*I’m looking for full-time roles in product design, advanced manufacturing, or R&D‐heavy mechanical systems.*
+
+📧 **mattdubea@outlook.com** • 📍 Lafayette, LA • 💼 [LinkedIn](https://linkedin.com/in/matthew-dubea-4188ac311)
+
+---
+
+<sub>“Measure twice, weld once.” – personal mantra for both bikes *and* code.</sub>
