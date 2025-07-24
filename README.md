@@ -92,21 +92,7 @@ CAD • FEA • CNC • Embedded Systems • Data‑driven design
 
 ---
 
-### 🎓 Senior B.S. Mechanical Engineering — May 2025  
-CAD • FEA • CNC • Data-driven design • Embedded systems
-
----
-
-## 🚀 Portfolio Highlights
-
-| Repo | What’s inside | Quick Link |
-|------|----------------|------------|
-| **Tricycle-Project** | 3D CAD (SolidWorks), FEA results, fabrication photos, BOM & budget – 1st place **Acadiana 500** trike | [Site](https://mtdubea.github.io/trike/) • [Repo](https://github.com/mtdubea/matthew-dubea.github.io/tree/main/trike) |
-| **Mechatronics Payload** | Drone-suspended autonomous payload: IMU, ultrasonic, thermistor, water sensor, servo release | [Site](https://mtdubea.github.io/mechatronics/) • [Repo](https://github.com/mtdubea/mtdubea.github.io/tree/main/mechatronics) |
-| **Calc-Scripts** | MATLAB & Python notebooks for energy, tip-angle, axle-stress calculations | [Repo](https://github.com/mtdubea/Calc-Scripts) |
-| **CNC-Fixtures** | Parametric clamp fixtures & jigs (Fusion 360 + CAM) | [Repo](https://github.com/mtdubea/CNC-Fixtures) |
-| **Jet-Turbine-Lab** | SR-30 gas turbine data reduction, thermodynamic analysis & lab report | [Repo](https://github.com/mtdubea/Jet-Turbine-Lab) |
-
+### 🎓 B.S. Mechanical Engineering — May 2025  
 ---
 
 ## 🛠️ Technical Skill Snapshot
