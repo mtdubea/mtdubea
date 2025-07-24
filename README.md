@@ -68,7 +68,120 @@ CAD • FEA • CNC • Embedded Systems • Data‑driven design
   <img src="https://skillicons.dev/icons?i=solidworks,autocad,arduino,py,matlab,cpp,git,linux,vscode,ansys" height="45" />
 </p>
 
+<!--
+  PROFILE README — mattdubea
+  Compact "links-first" layout • Works in dark & light modes
+-->
+
+<h2 align="center">Matthew&nbsp;Dubea – Mechanical Engineer</h2>
+
+<p align="center">
+  <a href="https://mtdubea.github.io/trike/index.html" target="_blank">
+    <img alt="Live Trike Portfolio" src="https://img.shields.io/badge/%F0%9F%9A%B2%20Trike%20Portfolio-blue?logo=githubpages&style=flat-square">
+  </a>
+  <a href="https://mtdubea.github.io/mechatronics/index.html" target="_blank">
+    <img alt="Mechatronics Portfolio" src="https://img.shields.io/badge/🤖%20Mechatronics-blueviolet?logo=arduino&style=flat-square">
+  </a>
+  <a href="https://www.linkedin.com/in/mdubea/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/%20LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square">
+  </a>
+  <a href="mailto:mattdubea@outlook.com">
+    <img alt="Email" src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-grey?style=flat-square">
+  </a>
+</p>
+
 ---
+
+### 🎓 Senior B.S. Mechanical Engineering — May 2025  
+CAD • FEA • CNC • Data-driven design • Embedded systems
+
+---
+
+## 🚀 Portfolio Highlights
+
+| Repo | What’s inside | Quick Link |
+|------|----------------|------------|
+| **Tricycle-Project** | 3D CAD (SolidWorks), FEA results, fabrication photos, BOM & budget – 1st place **Acadiana 500** trike | [Site](https://mtdubea.github.io/trike/) • [Repo](https://github.com/mtdubea/matthew-dubea.github.io/tree/main/trike) |
+| **Mechatronics Payload** | Drone-suspended autonomous payload: IMU, ultrasonic, thermistor, water sensor, servo release | [Site](https://mtdubea.github.io/mechatronics/) • [Repo](https://github.com/mtdubea/mtdubea.github.io/tree/main/mechatronics) |
+| **Calc-Scripts** | MATLAB & Python notebooks for energy, tip-angle, axle-stress calculations | [Repo](https://github.com/mtdubea/Calc-Scripts) |
+| **CNC-Fixtures** | Parametric clamp fixtures & jigs (Fusion 360 + CAM) | [Repo](https://github.com/mtdubea/CNC-Fixtures) |
+| **Jet-Turbine-Lab** | SR-30 gas turbine data reduction, thermodynamic analysis & lab report | [Repo](https://github.com/mtdubea/Jet-Turbine-Lab) |
+
+---
+
+## 🛠️ Technical Skill Snapshot
+
+**Mechanical Design & Analysis**  
+SolidWorks (CSWA), GD&T, tolerance stack-up, PFMEA, root cause analysis, structural FEA, CFD (ANSYS Fluent), design for manufacturability.
+
+**Manufacturing & Fabrication**  
+CNC lathe & mill, manual machining, welding (TIG/MIG), additive manufacturing, fixture design, shop documentation, BOM & cost tracking.
+
+**Mechatronics & Embedded**  
+Arduino (C/C++), sensor integration (IMU, ultrasonic, thermistor, water probes), servo/actuator control, LCD over I²C, power distribution.
+
+**Data, Simulation & Scripting**  
+MATLAB (Onramp + ML Onramp certified), Python, data acquisition/visualization, numerical analysis, Excel-based engineering tools.
+
+---
+
+## 🧾 Certifications & Professional Memberships
+
+<p>
+  <a href="certs/CSWA OFFICIAL.pdf" target="_blank"><img alt="CSWA" height="24" src="https://img.shields.io/badge/CSWA-SOLIDWORKS%20CAD%20Associate-005386?logo=solidworks&style=flat-square"></a>
+  <a href="certs/MATLAB_OnRamp_Cert.pdf" target="_blank"><img alt="MATLAB" height="24" src="https://img.shields.io/badge/MATLAB%20Onramp-Certified-0076A8?logo=matlab&style=flat-square"></a>
+  <a href="certs/MATLAB_MachineLearning_OnRamp_Certification.pdf" target="_blank"><img alt="ML Onramp" height="24" src="https://img.shields.io/badge/ML%20Onramp-Certified-0076A8?logo=matlab&style=flat-square"></a>
+  <a href="certs/Official_Certification_Issued_Six_Sigma_Black_Belt_Certification_Standard.pdf" target="_blank"><img alt="Six Sigma" height="24" src="https://img.shields.io/badge/Six%20Sigma-Black%20Belt-1D3557?style=flat-square"></a>
+  <a href="certs/ASME.membership-certificate.pdf" target="_blank"><img alt="ASME" height="24" src="https://img.shields.io/badge/ASME-Member-0A66C2?style=flat-square"></a>
+  <a href="certs/SocietyOfManufacturingEngineers_SME_MatthewDubea.pdf" target="_blank"><img alt="SME" height="24" src="https://img.shields.io/badge/SME-Member-FF6F00?style=flat-square"></a>
+  <a href="certs/LES_Membership_Cert_Matthew_Dubea.pdf" target="_blank"><img alt="LES" height="24" src="https://img.shields.io/badge/LES-Student%20Member-9C27B0?style=flat-square"></a>
+  <a href="certs/OSHA 10 Hour Health &  Safety.png" target="_blank"><img alt="OSHA 10" height="24" src="https://img.shields.io/badge/OSHA%2010hr-Construction%20Safety-2E7D32?style=flat-square"></a>
+</p>
+
+<details>
+<summary><strong>View Certificates (PDF/Images)</strong></summary>
+
+- **SOLIDWORKS CAD Design Associate (CSWA)** – ID: C‑DQ62BGCW7U  
+  <a href="certs/CSWA OFFICIAL.pdf" target="_blank">PDF</a>
+
+- **Six Sigma Black Belt – Standard** (Issued Jul 24, 2025)  
+  <a href="certs/Official_Certification_Issued_Six_Sigma_Black_Belt_Certification_Standard.pdf" target="_blank">PDF</a>
+
+- **MATLAB Onramp (100% completion)** – Dec 16, 2024  
+  <a href="certs/MATLAB_OnRamp_Cert.pdf" target="_blank">PDF</a>
+
+- **Machine Learning Onramp (100% completion)** – Dec 16, 2024  
+  <a href="certs/MATLAB_MachineLearning_OnRamp_Certification.pdf" target="_blank">PDF</a>
+
+- **ASME Member (2025)**  
+  <a href="certs/ASME.membership-certificate.pdf" target="_blank">PDF</a>
+
+- **Society of Manufacturing Engineers (SME) – Member**  
+  <a href="certs/SocietyOfManufacturingEngineers_SME_MatthewDubea.pdf" target="_blank">PDF</a>
+
+- **Louisiana Engineering Society – Student Member**  
+  <a href="certs/LES_Membership_Cert_Matthew_Dubea.pdf" target="_blank">PDF</a>
+
+- **OSHA 10 hr Construction Safety & Health (2019)**  
+  <a href="certs/OSHA 10 Hour Health &  Safety.png" target="_blank">Image</a>
+
+</details>
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtdubea&hide_title=true&theme=default&count_private=true" alt="GitHub stats" />
+</p>
+
+---
+
+### 🧠 Engineering Motto  
+> <sub><b>“Measure twice, weld once.”</b></sub>
+
+---
+
 
 ## 📈 GitHub Snapshot
 
