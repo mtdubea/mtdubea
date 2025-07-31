@@ -26,67 +26,113 @@
   </a>
 </p>
 
----
-
-🎓 **B.S. Mechanical Engineering – UL Lafayette (May 2025)**  
-💡 CAD • FEA • CNC • Embedded Hardware • Cost-Smart Design
-
----
-
-## 🔧 What I Do
-
-- **Design → Build:** CAD to FEA to real hardware  
-- **Smart Manufacturing:** TIG/CNC/3D print + DFMA  
-- **Automation & Embedded:** Arduino (C++), Python  
-- **Documentation:** PFMEA, cost tracking, QA/QC, reproducible builds
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mtdubea&color=blue&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
-## ⭐ Featured Projects
+🎓 **B.S. Mechanical Engineering – University of Louisiana at Lafayette (May 2025)**  
+📌 CSWA • Six Sigma • Embedded Systems • TIG/CNC • FEA • Python/MATLAB
 
-| Project | Description | Skills | Link |
-|--------|-------------|--------|------|
-| 🏁 **Race Trike** | 1st-place tricycle for the Acadiana 500; full design & FEA in SolidWorks; custom TIG/CNC frame | SolidWorks • 4130 steel • FEA • PFMEA | [View Project](https://mtdubea.github.io/trike) |
-| ✈️ **Mechatronics Payload** | Arduino UAV system using IMU, ultrasonic, and thermal sensors to trigger payload drop | Embedded C++ • Sensors • Power • UI | [View Project](https://mtdubea.github.io/mechatronics) |
-| 🤖 **Rescue Robot** | Python-integrated autonomous robot with telescoping actuator, hook, and sensor fusion | Python • Stepper PID • Solenoids | [View Project](https://mtdubea.github.io/robot) |
+---
+
+## 🏁 Featured Engineering Projects
+
+| Project | Description | Skills | Links |
+|--------|-------------|--------|--------|
+| 🚴 **Acadiana 500 Trike** | 1st-place race trike; TIG/CNC-built 4130 steel frame with FEA, PFMEA, DFM/DFA | SolidWorks • FEA • Lean • Manufacturing | [🔗 Site](https://mtdubea.github.io/trike) · [📁 Repo](https://github.com/mtdubea/Tricycle-Project) |
+| ✈️ **Mechatronics Payload** | Arduino-powered UAV payload drop system using thermal, proximity, and IMU sensors | Embedded C++ • Sensors • Power • LCD | [🔗 Site](https://mtdubea.github.io/mechatronics) · [📁 Repo](https://github.com/mtdubea/mtdubea.github.io/tree/main/mechatronics) |
+| 🤖 **Rescue Robot** | Python/Arduino robot w/ solenoid hook, actuator boom, PID, full system autonomy | Python • PID • IR/Mag Sensors • Mechatronics | [🔗 Site](https://mtdubea.github.io/robot) · [📁 Repo](https://github.com/mtdubea/mtdubea.github.io/tree/main/robot) |
 
 ---
 
 ## 🧰 Toolbox
 
-**CAD / FEA:** SolidWorks (CSWA), Fusion 360, Ansys Fluent  
-**Manufacturing:** CNC, TIG/MIG, 3D Printing, Manual Machining  
-**Embedded / Code:** Arduino (C++), Python, MATLAB, Excel  
-**Process:** PFMEA, Lean Six Sigma, Cost Analysis, QA/QC, GD&T
+**CAD & Simulation**  
+SolidWorks (CSWA), Fusion 360, Ansys (FEA/CFD), AutoCAD, GD&T
+
+**Fabrication & Manufacturing**  
+TIG/MIG welding, CNC machining, 3D printing, DFM/DFA, BOMs, PFMEA
+
+**Mechatronics & Embedded**  
+Arduino (C/C++), MATLAB, Python, Sensor fusion (IMU, Ultrasonic), Actuation (Servo, Solenoid), LCD/I²C, Power Management
+
+**Process & Documentation**  
+Six Sigma, Root Cause Analysis, Excel (QA/QC, Tooling), Technical Reports, Lab Documentation, RFQs, MOC/PSSR
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidworks,autocad,arduino,py,matlab,cpp,git,vscode,ansys" height="40" />
+  <img src="https://skillicons.dev/icons?i=solidworks,autocad,ansys,arduino,py,cpp,matlab,git,vscode,linux" height="40" />
 </p>
 
 ---
 
 ## 📄 Certifications
 
-- **CSWA – SOLIDWORKS Associate**
-- **Six Sigma Black Belt – CSSC**
-- **MATLAB & Machine Learning (MathWorks)**
-- **OSHA 10-Hour General Industry**
-- **ASME, SME, LES Member**
+<p>
+  <a href="certs/CSWA OFFICIAL.pdf" target="_blank"><img alt="CSWA" height="24" src="https://img.shields.io/badge/CSWA-SOLIDWORKS%20CAD-005386?logo=solidworks&style=flat-square"></a>
+  <a href="certs/MATLAB_OnRamp_Cert.pdf" target="_blank"><img alt="MATLAB" height="24" src="https://img.shields.io/badge/MATLAB-Onramp-0076A8?logo=mathworks&style=flat-square"></a>
+  <a href="certs/MATLAB_MachineLearning_OnRamp_Certification.pdf" target="_blank"><img alt="ML Onramp" height="24" src="https://img.shields.io/badge/Machine%20Learning-Onramp-0076A8?logo=mathworks&style=flat-square"></a>
+  <a href="certs/Official_Certification_Issued_Six_Sigma_Black_Belt_Certification_Standard.pdf" target="_blank"><img alt="Six Sigma" height="24" src="https://img.shields.io/badge/Six%20Sigma-Black%20Belt-1D3557?style=flat-square"></a>
+  <a href="certs/ASME.membership-certificate.pdf" target="_blank"><img alt="ASME" height="24" src="https://img.shields.io/badge/ASME-Member-0A66C2?style=flat-square"></a>
+  <a href="certs/SocietyOfManufacturingEngineers_SME_MatthewDubea.pdf" target="_blank"><img alt="SME" height="24" src="https://img.shields.io/badge/SME-Member-FF6F00?style=flat-square"></a>
+  <a href="certs/LES_Membership_Cert_Matthew_Dubea.pdf" target="_blank"><img alt="LES" height="24" src="https://img.shields.io/badge/LES-Student%20Member-9C27B0?style=flat-square"></a>
+  <a href="certs/OSHA 10 Hour Health &  Safety.png" target="_blank"><img alt="OSHA 10" height="24" src="https://img.shields.io/badge/OSHA%2010hr-Safety-2E7D32?style=flat-square"></a>
+</p>
 
-[🔗 View All Certifications](https://mtdubea.github.io/resume.html)
+<details>
+<summary><strong>📁 View Certificates (PDF/Images)</strong></summary>
+
+- **CSWA — Certified SolidWorks Associate**  
+  [PDF](certs/CSWA%20OFFICIAL.pdf)
+
+- **Six Sigma Black Belt — CSSC**  
+  [PDF](certs/Official_Certification_Issued_Six_Sigma_Black_Belt_Certification_Standard.pdf)
+
+- **MATLAB Onramp & Machine Learning Onramp**  
+  [MATLAB](certs/MATLAB_OnRamp_Cert.pdf) | [ML](certs/MATLAB_MachineLearning_OnRamp_Certification.pdf)
+
+- **ASME, SME, LES Memberships**  
+  [ASME](certs/ASME.membership-certificate.pdf) | [SME](certs/SocietyOfManufacturingEngineers_SME_MatthewDubea.pdf) | [LES](certs/LES_Membership_Cert_Matthew_Dubea.pdf)
+
+- **OSHA 10-Hour Safety Training**  
+  [Image](certs/OSHA%2010%20Hour%20Health%20%26%20Safety.png)
+
+</details>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtdubea&show_icons=true&hide_title=true&count_private=true&theme=default" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtdubea&layout=compact&hide_title=true&theme=default" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtdubea&theme=github" />
+</p>
+
 ---
 
-### 🧠 Engineering Motto  
+## 🛠️ My Engineering Workflow (7 Steps)
+
+1. **Read the rulebook** — extract constraints & objectives  
+2. **Model fast** — CAD models & basic kinematic layout  
+3. **Analyze** — FEA, tip-over angle, FoS, calc reports  
+4. **Prototype** — fixture design, 3D print, CNC, TIG  
+5. **Test & measure** — sensor integration, real data  
+6. **Iterate** — reduce weight, cost, time  
+7. **Deliver** — clean code, polished reports, and results
+
+---
+
+## 🧠 Engineering Motto  
 <p align="center"><sub><b>“Measure twice, weld once.”</b></sub></p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
