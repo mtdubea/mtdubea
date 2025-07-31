@@ -71,13 +71,13 @@ Six Sigma, Root Cause Analysis, Excel (QA/QC, Tooling), Technical Reports, Lab D
 
 <p>
   <a href="CSWA OFFICIAL.pdf" target="_blank"><img alt="CSWA" height="24" src="https://img.shields.io/badge/CSWA-SOLIDWORKS%20CAD-005386?logo=solidworks&style=flat-square"></a>
-  <a href="certs/MATLAB_OnRamp_Cert.pdf" target="_blank"><img alt="MATLAB" height="24" src="https://img.shields.io/badge/MATLAB-Onramp-0076A8?logo=mathworks&style=flat-square"></a>
-  <a href="certs/MATLAB_MachineLearning_OnRamp_Certification.pdf" target="_blank"><img alt="ML Onramp" height="24" src="https://img.shields.io/badge/Machine%20Learning-Onramp-0076A8?logo=mathworks&style=flat-square"></a>
-  <a href="certs/Official_Certification_Issued_Six_Sigma_Black_Belt_Certification_Standard.pdf" target="_blank"><img alt="Six Sigma" height="24" src="https://img.shields.io/badge/Six%20Sigma-Black%20Belt-1D3557?style=flat-square"></a>
-  <a href="certs/ASME.membership-certificate.pdf" target="_blank"><img alt="ASME" height="24" src="https://img.shields.io/badge/ASME-Member-0A66C2?style=flat-square"></a>
-  <a href="certs/SocietyOfManufacturingEngineers_SME_MatthewDubea.pdf" target="_blank"><img alt="SME" height="24" src="https://img.shields.io/badge/SME-Member-FF6F00?style=flat-square"></a>
-  <a href="certs/LES_Membership_Cert_Matthew_Dubea.pdf" target="_blank"><img alt="LES" height="24" src="https://img.shields.io/badge/LES-Student%20Member-9C27B0?style=flat-square"></a>
-  <a href="certs/OSHA 10 Hour Health &  Safety.png" target="_blank"><img alt="OSHA 10" height="24" src="https://img.shields.io/badge/OSHA%2010hr-Safety-2E7D32?style=flat-square"></a>
+  <a href="MATLAB_OnRamp_Cert.pdf" target="_blank"><img alt="MATLAB" height="24" src="https://img.shields.io/badge/MATLAB-Onramp-0076A8?logo=mathworks&style=flat-square"></a>
+  <a href="cMATLAB_MachineLearning_OnRamp_Certification.pdf" target="_blank"><img alt="ML Onramp" height="24" src="https://img.shields.io/badge/Machine%20Learning-Onramp-0076A8?logo=mathworks&style=flat-square"></a>
+  <a href="Official_Certification_Issued_Six_Sigma_Black_Belt_Certification_Standard.pdf" target="_blank"><img alt="Six Sigma" height="24" src="https://img.shields.io/badge/Six%20Sigma-Black%20Belt-1D3557?style=flat-square"></a>
+  <a href="ASME.membership-certificate.pdf" target="_blank"><img alt="ASME" height="24" src="https://img.shields.io/badge/ASME-Member-0A66C2?style=flat-square"></a>
+  <a href="SocietyOfManufacturingEngineers_SME_MatthewDubea.pdf" target="_blank"><img alt="SME" height="24" src="https://img.shields.io/badge/SME-Member-FF6F00?style=flat-square"></a>
+  <a href="LES_Membership_Cert_Matthew_Dubea.pdf" target="_blank"><img alt="LES" height="24" src="https://img.shields.io/badge/LES-Student%20Member-9C27B0?style=flat-square"></a>
+  <a href="OSHA 10 Hour Health &  Safety.png" target="_blank"><img alt="OSHA 10" height="24" src="https://img.shields.io/badge/OSHA%2010hr-Safety-2E7D32?style=flat-square"></a>
 </p>
 
 <details>
