@@ -84,19 +84,19 @@ Six Sigma, Root Cause Analysis, Excel (QA/QC, Tooling), Technical Reports, Lab D
 <summary><strong>📁 View Certificates (PDF/Images)</strong></summary>
 
 - **CSWA — Certified SolidWorks Associate**  
-  [PDF](certs/CSWA%20OFFICIAL.pdf)
+  [PDF](CSWA%20OFFICIAL.pdf)
 
 - **Six Sigma Black Belt — CSSC**  
-  [PDF](certs/Official_Certification_Issued_Six_Sigma_Black_Belt_Certification_Standard.pdf)
+  [PDF](Official_Certification_Issued_Six_Sigma_Black_Belt_Certification_Standard.pdf)
 
 - **MATLAB Onramp & Machine Learning Onramp**  
-  [MATLAB](certs/MATLAB_OnRamp_Cert.pdf) | [ML](certs/MATLAB_MachineLearning_OnRamp_Certification.pdf)
+  [MATLAB](MATLAB_OnRamp_Cert.pdf) | [ML](certs/MATLAB_MachineLearning_OnRamp_Certification.pdf)
 
 - **ASME, SME, LES Memberships**  
-  [ASME](certs/ASME.membership-certificate.pdf) | [SME](certs/SocietyOfManufacturingEngineers_SME_MatthewDubea.pdf) | [LES](certs/LES_Membership_Cert_Matthew_Dubea.pdf)
+  [ASME](ASME.membership-certificate.pdf) | [SME](certs/SocietyOfManufacturingEngineers_SME_MatthewDubea.pdf) | [LES](certs/LES_Membership_Cert_Matthew_Dubea.pdf)
 
 - **OSHA 10-Hour Safety Training**  
-  [Image](certs/OSHA%2010%20Hour%20Health%20%26%20Safety.png)
+  [Image](OSHA%2010%20Hour%20Health%20%26%20Safety.png)
 
 </details>
 
